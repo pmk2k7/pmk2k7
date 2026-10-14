@@ -1,16 +1,33 @@
-## Hi there 👋
+👨‍🏫 பெ. முத்துக்குமார் (P. Muthukumar)
 
-<!--
-**pmk2k7/pmk2k7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+கணிப்பொறி ஆசிரியர் | சமூகசெயற்பாட்டாளர் | மென்பொருள் உருவாக்குநர்
 
-Here are some ideas to get you started:
+🌟 என்னைப் பற்றி (About Me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 பணி: கணிப்பொறி அறிவியல் ஆசிரியர் (Computer Science Teacher), அரசு மகளிர் மேல்நிலைப்பள்ளி, போச்சம்பள்ளி.
+
+🎓 கல்வித் தகுதி: B.Sc. , M.Sc.,B.Ed.,
+
+🌐 இணையதளம்: www.studyVu.com (TNPSC, JEE, NEET போன்ற போட்டித் தேர்வுகளுக்கான இலவச பயிற்சித் தளம்).
+
+🤝 சமூகச் சேவை:  உறுப்பினர், அரிமா சங்கம் (Lions Club), போச்சம்பள்ளி.
+
+✍️ ஆர்வங்கள்: தமிழ் கவிதைகள், கதைகள், கல்வி சார்ந்த மென்பொருள் உருவாக்கங்கள்.
+
+🛠️ தொழில்நுட்பத் திறன்கள் (Tech Stack)
+
+நிரலாக்க மொழிகள் (Languages):python,c++,AI,NodeMCU,Raspbarry Pi,...
+
+தரவுத்தளம் & கேம் டெவலப்மென்ட் (Databases & Tools):GdGOD
+
+📊 GitHub புள்ளிவிவரங்கள் (GitHub Stats)
+
+
+
+
+
+📬 தொடர்பு கொள்ள (Connect With Me)
+
+🌐 இணையதளம்: www.studyvu.com 9791963550
+
+🏫 பள்ளி: அரசு மகளிர் மேல்நிலைப்பள்ளி, போச்சம்பள்ளி, தமிழ்நாடு.
